@@ -28,7 +28,7 @@ For the machine learning-enabled approach for user persona generation (the secon
 
 This repository serves as the index for the related research results and source code.
 
-[code/visual.R](code/visual.R) is the data cleaning, analysis, and visualization pipeline for [the first study](papers/2021_smart_housing.pdf). 
+[code/visual.R](code/visual.R) is the script for data cleaning, analysis, and visualization of [the first study](papers/2021_smart_housing.pdf). 
 
 The dataset used in this research can be found [here](https://osf.io/ur8th/) in OSF.io.
 
