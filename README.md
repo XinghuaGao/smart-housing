@@ -8,7 +8,7 @@ The second study led by Dr. Gao proposes a machine learning-driven methodology f
 
 Dr. Gao’s work in this project is under an umbrella research program [Internet of Things Enabled Data Acquisition Framework for Smart Building Applications](https://github.com/XinghuaGao/IoT-building-data#internet-of-things-enabled-data-acquisition-framework-for-smart-building-applications), which is initiated by Dr. Gao.
 
-## **Developing** Building Occupant Personas
+## Developing Building Occupant Personas
 
 The team used an online benchmarking software, WegoWise, to gather electricity data at the apartment level on a monthly schedule from May 2013 to April 2018. The sample encompassed 309 sub-metered residential units across 20 developments in Virginia. These units varied from one to four-bedroom apartments. We supplemented Energy Efficiency and Conservation (EEC) data with architectural specifics like conditioned floor areas (in square meters), window-wall ratios, unit locations (for example, end unit, interior unit), and unit technologies, including heating, ventilation, and cooling equipment. These details were sourced from the construction documents provided by the participating developers, and their accuracy was confirmed through site visits.
 
@@ -22,9 +22,9 @@ After conducting energy analysis, behavioral analysis, semi-structured interview
 
 ![persona2.JPG](image/non_senior.JPG)
 
-For the machine learning-enabled approach for user persona generation (the second study), please see [this repository](https://github.com/anik801/BDL_data_1).
+For the machine learning-enabled approach for user persona generation (the second study), please see this repository (to be established soon).
 
-## **Source Code and Data**
+## Source Code and Data
 
 This repository serves as the index for the related research results and source code.
 
